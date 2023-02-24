@@ -3,9 +3,9 @@ Pozza is a new esoteric, stupid and drip programming language created for joke.
 The file extension I chose is .pz
 
 ## Setup
-Compile with _`gcc pozza.c -o pozza`_.
+Compile with _`gcc pozza.c -o pozza`_
 
-Execute files with ./pozza <filename>
+Execute files with _`./pozza <filename>`_
 
 You can find some exercises [here.](https://github.com/komodoooo/pozza-esolang/tree/main/examples)
 
