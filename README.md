@@ -13,8 +13,6 @@ Example:
 ```
 |this is a comment!|
 ```
-
-Oh, comments will not work with correct instructions by the way. (lol)
 ### Strings
 In pozza, you can print a string with '\\' and '/', for example:
 
