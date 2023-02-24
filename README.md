@@ -2,12 +2,17 @@
 Pozza is a new esoteric, stupid and drip programming language created for joke. 
 The file extension I chose is .pz
 
+## Setup
+Compile with _`gcc pozza.c -o pozza`_.
+
+Execute files with ./pozza <filename>
+
 You can find some exercises [here.](https://github.com/komodoooo/pozza-esolang/tree/main/examples)
 
 # Documentation
 ### Comments
 
-Pozza ignore any non-instruction, but if you want to use a _correct_ comment you can type your comment inside two '|'.
+Pozza ignore any non-instruction, but if you want to use a _correct_ (for example, ignoring instructions) comment you can type your comment inside two '|'.
 
 Example:
 ```
